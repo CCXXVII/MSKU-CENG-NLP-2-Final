@@ -56,10 +56,16 @@ Bu projeyi kullanmak için aşağıdakilere ihtiyacınız olacak:
 7.Değerlendirmenin tamamlanmasını bekleyin.
 8.Değerlendirme sonuçlarını içeren output_MSKU-CENG-NLP-2.csv dosyasını indirin.
 
-# Lisans
+# Takım Üyeleri (MSKU-CENG-NLP-2)
+•	Şevval ÖZEKİNCİ
+•	Hatice NUREL
+•	Enes DERTLİ
+•	Yasemin DEMİRKAYA
 
+# Lisans
 Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakın.
 
 # Teşekkürler
-
-Bu proje MSKU-CENG-NLP-2 takımı tarafından oluşturulmuştur. Eğitim verilerini sağlayan teknofest_train_final.csv veri kümesine özel teşekkürler.
+•	Bekir Taner DİNÇER | Danışman
+•	Şükrü BEZEN | Mentör
+ 
