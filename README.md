@@ -9,7 +9,7 @@ Aşağılayıcı Söylem Tespiti Projesi, günümüzde giderek artan çevrimiçi
 Bu proje için kullanılan veri kümesi öncelikle önişleme işlemlerinden geçirilmiştir. Bu işlemler, metin verilerini daha iyi anlaşılır hale getirmek ve daha iyi sonuçlar elde etmek için yapılmaktadır.Önişleme adımları şu şekildedir:
 1."re" kütüphanesi kullanılarak, metin verilerindeki gereksiz karakterler ve sayılar kaldırılmıştır.
 2.Tüm metinler küçük harflere dönüştürülmüştür.
-3.Her bir metnin ilk 5 kelimesi alınmıştır.Bu veri önişemedeki en önemli adımımız çünkü burda modelin daha yalın ve özgün bir veri kümesi üzerinde çalışmasını sağlıyoruz vebu da performasa çok etki ediyor.
+3.Her bir metnin ilk 5 kelimesi alınmıştır.Bu veri önişemedeki en önemli adımımız çünkü burda modelin daha yalın ve özgün bir veri kümesi üzerinde çalışmasını sağlıyoruz.
 4.Eşit sayıda örnek her bir kategori için ayrılmıştır.
 Bu önişleme işlemleri, daha temiz ve anlaşılır veriler elde edilmesine yardımcı olmuştur. Bu veriler, proje için kullanılan modelin daha yüksek performans elde etmesini sağlamaktadır.
 
@@ -28,6 +28,12 @@ Farklı Modellerin Performans Karşılaştırılması
 Proje için denediğimiz modeller tablo halinde gösterilmiştir.
  
 Bu modeller arasında veri setimize en uygun olan iki model MultinominalNB ve BERT modeli olarak seçilerek aşağılayıcı söylemlerin tespit edilmesi işlemi gerçekleştirilmiştir.
+
+# Farklı Modellerin Performans Karşılaştırılması
+Proje için denediğimiz modeller tablo halinde gösterilmiştir.
+![image](https://user-images.githubusercontent.com/80068002/230200252-c804793d-10ad-48f9-9394-9e133a677837.png)
+Bu modeller arasında veri setimize en uygun olan iki model MultinominalNB ve BERT modeli olarak seçilerek aşağılayıcı söylemlerin tespit edilmesi işlemi gerçekleştirilmiştir.
+
 
 # Gereksinimler
 
