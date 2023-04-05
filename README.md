@@ -3,7 +3,8 @@
 Aşağılayıcı Söylem Tespiti Projesi, günümüzde giderek artan çevrimiçi iletişim ortamlarında karşılaşılan aşağılayıcı söylemlerin tespitinin ne kadar önemli olduğunu gösteren bir örnektir. Bu projede, doğal dil işleme yöntemleri kullanılarak aşağılayıcı söylemlerin tespiti amaçlanmıştır. Proje için oluşturulan veri kümesi, aşağılayıcı söylem içerip içermediğine ve içeriyorsa hangi alt kategoride (cinsiyetçi, ırkçı, küfür veya hakaret) olduğuna dair etiketlenmiştir. Bu sayede, projenin sonuçları hem çevrimiçi ortamların güvenliği hem de insanların psikolojik sağlığı açısından oldukça önemlidir.
 
 # Veri Önişleme
-  ![image](https://user-images.githubusercontent.com/80068002/230199884-489222fe-4947-4677-aca5-08eedef52ed3.png)
+  ![image](https://user-images.githubusercontent.com/80068002/230199884-489222fe-4947-4677-aca5-08eedef52ed3.png) ![image](https://user-images.githubusercontent.com/80068002/230199982-16673ab0-e4a5-4da8-a961-3176ce099cdd.png)
+
 
 Bu proje için kullanılan veri kümesi öncelikle önişleme işlemlerinden geçirilmiştir. Bu işlemler, metin verilerini daha iyi anlaşılır hale getirmek ve daha iyi sonuçlar elde etmek için yapılmaktadır.Önişleme adımları şu şekildedir:
 1."re" kütüphanesi kullanılarak, metin verilerindeki gereksiz karakterler ve sayılar kaldırılmıştır.
