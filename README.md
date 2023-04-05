@@ -1,5 +1,8 @@
 ## MSKU-CENG-NLP-2-Final
+
+<img src="images/msku-nlp.jpg" alt="Example Image" width="900"/>
 # Projenin Amacı
+
 Aşağılayıcı Söylem Tespiti Projesi, günümüzde giderek artan çevrimiçi iletişim ortamlarında karşılaşılan aşağılayıcı söylemlerin tespitinin ne kadar önemli olduğunu gösteren bir örnektir. Bu projede, doğal dil işleme yöntemleri kullanılarak aşağılayıcı söylemlerin tespiti amaçlanmıştır. Proje için oluşturulan veri kümesi, aşağılayıcı söylem içerip içermediğine ve içeriyorsa hangi alt kategoride (cinsiyetçi, ırkçı, küfür veya hakaret) olduğuna dair etiketlenmiştir. Bu sayede, projenin sonuçları hem çevrimiçi ortamların güvenliği hem de insanların psikolojik sağlığı açısından oldukça önemlidir.
 
 # Veri Önişleme
@@ -14,6 +17,7 @@ Bu proje için kullanılan veri kümesi öncelikle önişleme işlemlerinden ge�
 Bu önişleme işlemleri, daha temiz ve anlaşılır veriler elde edilmesine yardımcı olmuştur. Bu veriler, proje için kullanılan modelin daha yüksek performans elde etmesini sağlamaktadır.
 
 # Veri Dengesizliği
+<img src="images/3.png" alt="Example Image" width="300"/> <img src="images/1.png" alt="Example Image" width="300"/> <img src="images/2.png" alt="Example Image" width="300"/> 
 
 Veri seti dengesizliklerini gidermek için scikit-learn kütüphanesinde yer alan resample() fonksiyonunu kullandık. Öncelikle, is_offensive kolonunda değeri 0 olan verilerin aynı sayıda örnek içerecek şekilde rastgele örneklem alınarak yeni bir dengeleştirilmiş veri seti oluşturduk. Ardından, eğitim setimizde de aynı işlemi uygulayarak sınıf dengesizliğini düzelttik. Bunun için, azınlık sınıfındaki örnekleri alarak, diğer sınıflardan örneklerle eşit sayıda örnek içeren yeni bir veri seti oluşturduk.
 Bunun yanı sıra, eğitim setimizdeki 'OTHER' sınıfı dışındaki diğer sınıflardan örnekler alarak, "offensive" olarak adlandırdığımız bir sınıf oluşturduk. Böylece, modelimizin sadece ayrımcı, cinsiyetçi, ırkçı veya küfürlü metinleri sınıflandırması için eğitim yapmasını sağladık.
@@ -56,16 +60,10 @@ Bu projeyi kullanmak için aşağıdakilere ihtiyacınız olacak:
 7.Değerlendirmenin tamamlanmasını bekleyin.
 8.Değerlendirme sonuçlarını içeren output_MSKU-CENG-NLP-2.csv dosyasını indirin.
 
-# Takım Üyeleri (MSKU-CENG-NLP-2)
-•	Şevval ÖZEKİNCİ
-•	Hatice NUREL
-•	Enes DERTLİ
-•	Yasemin DEMİRKAYA
-
 # Lisans
+
 Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için LICENSE dosyasına bakın.
 
 # Teşekkürler
-•	Bekir Taner DİNÇER | Danışman
-•	Şükrü BEZEN | Mentör
- 
+
+Bu proje MSKU-CENG-NLP-2 takımı tarafından oluşturulmuştur. Eğitim verilerini sağlayan teknofest_train_final.csv veri kümesine özel teşekkürler.
