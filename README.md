@@ -17,7 +17,7 @@ Bu proje için kullanılan veri kümesi öncelikle önişleme işlemlerinden ge�
 Bu önişleme işlemleri, daha temiz ve anlaşılır veriler elde edilmesine yardımcı olmuştur. Bu veriler, proje için kullanılan modelin daha yüksek performans elde etmesini sağlamaktadır.
 
 # Veri Dengesizliği
-<img src="images/3.png" alt="Example Image" width="300"/> <img src="images/1.png" alt="Example Image" width="300"/> <img src="images/2.png" alt="Example Image" width="300"/> 
+<img src="images/3.png" alt="Example Image" width="270"/> <img src="images/1.png" alt="Example Image" width="270"/> <img src="images/2.png" alt="Example Image" width="270"/> 
 
 Veri seti dengesizliklerini gidermek için scikit-learn kütüphanesinde yer alan resample() fonksiyonunu kullandık. Öncelikle, is_offensive kolonunda değeri 0 olan verilerin aynı sayıda örnek içerecek şekilde rastgele örneklem alınarak yeni bir dengeleştirilmiş veri seti oluşturduk. Ardından, eğitim setimizde de aynı işlemi uygulayarak sınıf dengesizliğini düzelttik. Bunun için, azınlık sınıfındaki örnekleri alarak, diğer sınıflardan örneklerle eşit sayıda örnek içeren yeni bir veri seti oluşturduk.
 Bunun yanı sıra, eğitim setimizdeki 'OTHER' sınıfı dışındaki diğer sınıflardan örnekler alarak, "offensive" olarak adlandırdığımız bir sınıf oluşturduk. Böylece, modelimizin sadece ayrımcı, cinsiyetçi, ırkçı veya küfürlü metinleri sınıflandırması için eğitim yapmasını sağladık.
