@@ -1,7 +1,7 @@
 ## MSKU-CENG-NLP-2-Final
 
 <img src="images/msku-nlp.jpg" alt="Example Image" width="900"/>
-# Projenin Amacı
+#Projenin Amacı
 
 Aşağılayıcı Söylem Tespiti Projesi, günümüzde giderek artan çevrimiçi iletişim ortamlarında karşılaşılan aşağılayıcı söylemlerin tespitinin ne kadar önemli olduğunu gösteren bir örnektir. Bu projede, doğal dil işleme yöntemleri kullanılarak aşağılayıcı söylemlerin tespiti amaçlanmıştır. Proje için oluşturulan veri kümesi, aşağılayıcı söylem içerip içermediğine ve içeriyorsa hangi alt kategoride (cinsiyetçi, ırkçı, küfür veya hakaret) olduğuna dair etiketlenmiştir. Bu sayede, projenin sonuçları hem çevrimiçi ortamların güvenliği hem de insanların psikolojik sağlığı açısından oldukça önemlidir.
 
@@ -32,6 +32,8 @@ Farklı Modellerin Performans Karşılaştırılması
 Proje için denediğimiz modeller tablo halinde gösterilmiştir.
  
 Bu modeller arasında veri setimize en uygun olan iki model MultinominalNB ve BERT modeli olarak seçilerek aşağılayıcı söylemlerin tespit edilmesi işlemi gerçekleştirilmiştir.
+
+-teknofest.csv dosyasını eğitim seti olarak kullandık.
 
 # Farklı Modellerin Performans Karşılaştırılması
 Proje için denediğimiz modeller tablo halinde gösterilmiştir.
