@@ -34,12 +34,15 @@ Proje için denediğimiz modeller tablo halinde gösterilmiştir.
  
 Bu modeller arasında veri setimize en uygun olan iki model MultinominalNB ve BERT modeli olarak seçilerek aşağılayıcı söylemlerin tespit edilmesi işlemi gerçekleştirilmiştir.
 
--teknofest.csv dosyasını eğitim seti olarak kullandık.
 
 # Farklı Modellerin Performans Karşılaştırılması
 Proje için denediğimiz modeller tablo halinde gösterilmiştir.
 ![image](https://user-images.githubusercontent.com/80068002/230200252-c804793d-10ad-48f9-9394-9e133a677837.png)
 Bu modeller arasında veri setimize en uygun olan iki model MultinominalNB ve BERT modeli olarak seçilerek aşağılayıcı söylemlerin tespit edilmesi işlemi gerçekleştirilmiştir.
+
+# Dosyalarım
+Bert Modeli : https://drive.google.com/file/d/1qAp3V92tw1zZdn-WEVzbvBpdLzsmU75n/view?usp=sharing
+Eğitim Seti : teknofest.csv 
 
 
 # Gereksinimler
