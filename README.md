@@ -43,7 +43,7 @@ Bu modeller arasında veri setimize en uygun olan iki model MultinominalNB ve BE
 # Dosyalarım
 Bert Modeli : https://drive.google.com/file/d/1qAp3V92tw1zZdn-WEVzbvBpdLzsmU75n/view?usp=sharin
 
-MultinomialNB : nb_model.pkl (Github'da bulunuyor)
+MultinomialNB Modeli : nb_model.pkl (Github'da bulunuyor)
 
 Eğitim Setimiz : teknofest.csv (Github'da bulunuyor)
 
