@@ -41,9 +41,11 @@ Proje için denediğimiz modeller tablo halinde gösterilmiştir.
 Bu modeller arasında veri setimize en uygun olan iki model MultinominalNB ve BERT modeli olarak seçilerek aşağılayıcı söylemlerin tespit edilmesi işlemi gerçekleştirilmiştir.
 
 # Dosyalarım
-Bert Modeli : https://drive.google.com/file/d/1qAp3V92tw1zZdn-WEVzbvBpdLzsmU75n/view?usp=sharing
+Bert Modeli : https://drive.google.com/file/d/1qAp3V92tw1zZdn-WEVzbvBpdLzsmU75n/view?usp=sharin
 
-Eğitim Setimiz : teknofest.csv (github da bulunuyor)
+MultinominalNB : nb_model.pkl (Github'da bulunuyor)
+
+Eğitim Setimiz : teknofest.csv (Github'da bulunuyor)
 
 
 # Gereksinimler
