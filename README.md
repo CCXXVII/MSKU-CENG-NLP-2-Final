@@ -92,3 +92,5 @@ Takım kuruluş amacı:
    Takımımızın kuruluş amacı, doğal dil işleme alanında ilerlemek ve bu alanda yenilikçi projeler geliştirmek için bir araya gelmek. Hepimiz NLP konusuna büyük bir ilgi duyuyor ve bu alanda kendimizi sürekli olarak geliştirmeye çalışıyoruz. Takım olarak birlikte çalışarak, birbirimizden öğreniyor ve farklı bakış açılarıyla projelerimize değer katıyoruz.
    Bizim için en önemli motivasyon kaynaklarından biri, geliştirdiğimiz projelerin gerçek hayatta insanların yaşamını kolaylaştırabilmesi. Bu yüzden, NLP teknolojilerinin kullanım alanlarını genişletmek ve daha fazla insana fayda sağlamak için projeler geliştiriyoruz. Bu yarışmayı da amacımızı gerçekleştirmek için bir fırsat olarak görüyoruz ve tüm gücümüzle çalışarak en iyi sonucu elde etmek istiyoruz.
 
+# Sunum Linki
+https://docs.google.com/presentation/d/1hoEdLeETezwuE9STX-w_Hpq8szCfvd7o/edit?usp=sharing&ouid=114436215467054582778&rtpof=true&sd=true
