@@ -93,4 +93,4 @@ Takım kuruluş amacı:
    Bizim için en önemli motivasyon kaynaklarından biri, geliştirdiğimiz projelerin gerçek hayatta insanların yaşamını kolaylaştırabilmesi. Bu yüzden, NLP teknolojilerinin kullanım alanlarını genişletmek ve daha fazla insana fayda sağlamak için projeler geliştiriyoruz. Bu yarışmayı da amacımızı gerçekleştirmek için bir fırsat olarak görüyoruz ve tüm gücümüzle çalışarak en iyi sonucu elde etmek istiyoruz.
 
 # Sunum Linki
-https://docs.google.com/presentation/d/1hoEdLeETezwuE9STX-w_Hpq8szCfvd7o/edit?usp=sharing&ouid=114436215467054582778&rtpof=true&sd=true
+sunum: https://docs.google.com/presentation/d/1hoEdLeETezwuE9STX-w_Hpq8szCfvd7o/edit?usp=sharing&ouid=114436215467054582778&rtpof=true&sd=true
